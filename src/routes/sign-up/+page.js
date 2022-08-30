@@ -1,7 +1,7 @@
 export function load() {
 	return {
 		bgColor: 'zinc',
-		title: 'Login',
+		title: 'Sign Up',
 		onDark: true,
 		layout: 'row'
 	};
